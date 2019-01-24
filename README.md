@@ -1,2 +1,1 @@
-# python-review-datastructures
-Python Review: Data Structures and Misc
+# Python Review: Data Structures and Misc
